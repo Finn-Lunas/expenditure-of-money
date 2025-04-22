@@ -30,8 +30,16 @@
 - [ ] Реалізувати категорії витрат. Та діаграму витрат за категоріями. (Додавання, редагування, видалення категорій).
 - [ ] Вивід загальної суми витрат за місяць.
 
-#### Currently, the project looks like this:
+### Currently, the project looks like this:
 
-![main_image]()
-![form_image]()
-![filtered_image]()
+#### The main state:
+
+![main_image](https://github.com/Finn-Lunas/expenditure-of-money/blob/main/readme_assets/Screenshot_2.png)
+
+#### Introduction of new costs:
+
+![form_image](https://github.com/Finn-Lunas/expenditure-of-money/blob/main/readme_assets/Screenshot_3.png)
+
+#### Filtering by year and displaying expenses relative to other months:
+
+![filtered_image](https://github.com/Finn-Lunas/expenditure-of-money/blob/main/readme_assets/Screenshot_4.png)
